@@ -59,3 +59,23 @@ while not find_player:
 		    game_board()
 
 print ("Congratulations Player "+str(int(start_game+1))+" Wins !!")
+
+
+
+
+
+'''
+•	Quel est la possibilité que le système détecte la maladie avant que les cellules arrivent à un niveau bien développe ? quel est l’âge minimum de tissus qui pourrai être détecte ? 
+•	Comment ça fonctionne avec les différents types des tissus de cancer ?
+•	Ce système est-il difficile à utiliser ? Est ce qu’il besoin d’un technicien ou une expertise ?
+•	Est-ce que les inconvénients présentent dans les autres détecteurs sont résolu dans votre système ?
+•	Sur quoi ce système est basé pour comparer les tissues Malins et les tissus saines ? (Méthodes d’imagerie)
+•	Que dit-on par rapport à l’ionisation, l’efficacité par rapport 
+-	A la patiente
+-	Au détection des lésions profond et difficile
+-	Au cout
+-	A la Dure 
+-	Aux Résolution et performance
+
+
+'''
